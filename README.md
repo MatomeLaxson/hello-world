@@ -1,6 +1,6 @@
-# hello-world
-My first project
+#hello-world
+===========
 
-Hello everyone
-
-My Name is Maleka Matome, This is the beginning of my journey and I am etremely excited.
+Hi Humans!
+Matome here, I like Node.js and Coffeescript (that's what I'm made of!).
+I've ha tacos on the moon and find them far superior to Earth tacos.
